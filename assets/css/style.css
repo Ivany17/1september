@@ -1,12 +1,14 @@
 .img {
+    display: block;
     width: 300px;
     box-sizing: border-box;
     border: 3px solid blue;
     padding: 5px 15px;
-    margin: 10px;
+    margin: 10px auto;
 }
 
 .span {
+    display: block;
     width: 300px;
     border: 3px solid blue;
     padding: 15px;
@@ -14,6 +16,8 @@
 }
 
 .div {
+    display: inline-block;
+    
     width: 300px;
     border: 3px solid blue;
     margin: 50px auto
