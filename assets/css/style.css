@@ -1,0 +1,19 @@
+.main-article {
+    font-size: 60px;
+    border: pink 5px solid;
+    color:aqua;
+}
+
+.article-header {
+    font-size: 40px;
+    border: inherit;
+}
+
+.article-content {
+    font-size: initial;
+}
+
+.article-link {
+    color: inherit;
+    text-decoration: none;
+}
